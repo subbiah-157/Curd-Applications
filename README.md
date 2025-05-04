@@ -37,6 +37,7 @@ npm install express mongoose cors nodemon
 Click the package.json  
 
 Add the command in “Start”:nodemon index.js 
+npm start
 
            
 
